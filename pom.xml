@@ -210,7 +210,7 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		   <url>http://54.237.97.255:8081/repository/snapshot-jb/</url
+		   <url>http://54.237.97.255:8081/repository/snapshot-jb/</url>
 		 </snapshotRepository>
 		<repository>
 		    <id>nexusRepo</id>
